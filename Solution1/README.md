@@ -1,4 +1,3 @@
-
 # Boot2Root Writeup 1
 > Summary: This project is an introduction to system penetration.
 
